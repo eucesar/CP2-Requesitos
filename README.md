@@ -1,2 +1,2 @@
 # CP2-Requesitos
-CP2-REQUISITOS
+Bem-vindo ao repositório de provas de Engenharia de Software! Aqui você encontrará uma coleção de provas passadas e exemplos de questões relacionadas a Engenharia de Software. Este repositório foi criado com o objetivo de fornecer recursos úteis para estudantes e profissionais interessados em aprimorar seus conhecimentos e habilidades nesta área fundamental da computação. Sinta-se à vontade para explorar, estudar e contribuir com suas próprias provas ou soluções. Boa sorte nos estudos!
